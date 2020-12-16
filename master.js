@@ -1,2 +1,1 @@
-
-console.log("changes");
+Alert("hello")
